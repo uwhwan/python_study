@@ -1,3 +1,4 @@
+#猜数游戏，练习选择和分支结构的python语法
 from random import randint
 
 money = 1000
